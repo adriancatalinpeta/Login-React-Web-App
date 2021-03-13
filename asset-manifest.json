@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adriancatalinpeta/travel-app.git/static/css/main.be27da36.chunk.css",
+    "main.js": "/adriancatalinpeta/travel-app.git/static/js/main.f0902d24.chunk.js",
+    "main.js.map": "/adriancatalinpeta/travel-app.git/static/js/main.f0902d24.chunk.js.map",
+    "runtime-main.js": "/adriancatalinpeta/travel-app.git/static/js/runtime-main.96bbf86e.js",
+    "runtime-main.js.map": "/adriancatalinpeta/travel-app.git/static/js/runtime-main.96bbf86e.js.map",
+    "static/js/2.62b88ce7.chunk.js": "/adriancatalinpeta/travel-app.git/static/js/2.62b88ce7.chunk.js",
+    "static/js/2.62b88ce7.chunk.js.map": "/adriancatalinpeta/travel-app.git/static/js/2.62b88ce7.chunk.js.map",
+    "static/js/3.03830ee0.chunk.js": "/adriancatalinpeta/travel-app.git/static/js/3.03830ee0.chunk.js",
+    "static/js/3.03830ee0.chunk.js.map": "/adriancatalinpeta/travel-app.git/static/js/3.03830ee0.chunk.js.map",
+    "index.html": "/adriancatalinpeta/travel-app.git/index.html",
+    "static/css/main.be27da36.chunk.css.map": "/adriancatalinpeta/travel-app.git/static/css/main.be27da36.chunk.css.map",
+    "static/js/2.62b88ce7.chunk.js.LICENSE.txt": "/adriancatalinpeta/travel-app.git/static/js/2.62b88ce7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/adriancatalinpeta/travel-app.git/static/media/concrete-wall-2.28844a72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96bbf86e.js",
+    "static/js/2.62b88ce7.chunk.js",
+    "static/css/main.be27da36.chunk.css",
+    "static/js/main.f0902d24.chunk.js"
+  ]
+}
